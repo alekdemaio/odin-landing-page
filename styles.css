@@ -1,0 +1,11 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+}
+#title {
+  flex: 3;
+}
+#links {
+  flex: 5;
+}
